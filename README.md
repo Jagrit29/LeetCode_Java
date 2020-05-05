@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/jagrit_07">
-        <img height=85 src="https://miro.medium.com/max/1200/1*9EEAMYxLObepKMaOCgYgvA.jpeg">
+        <img height=150 src="https://miro.medium.com/max/1200/1*9EEAMYxLObepKMaOCgYgvA.jpeg">
     </a>
     <br>Some of my Accepted Java Solutions on InterviewBit Platform
 </p>
