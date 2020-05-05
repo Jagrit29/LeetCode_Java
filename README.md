@@ -1,6 +1,3 @@
-# LeetCode_Java_Solutions
-This repository contains  my solutions  to LeetCode problems in Java with some explanation. I have sorted all the problems according to there respective topic.
-https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png
 
 
 <p align="center">
@@ -11,6 +8,9 @@ https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png
 </p>
 
 
+
+# LeetCode_Java_Solutions
+This repository contains  my solutions  to LeetCode problems in Java with some explanation. I have sorted all the problems according to there respective topic.
 ### Java Solutions:
 1. [Algorithms](#algorithms)
    1. [Strings](#Strings)
